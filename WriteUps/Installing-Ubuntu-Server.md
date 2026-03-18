@@ -24,10 +24,4 @@ As mentioned before, during the installation process i clicked the box that said
 CONCLUSION
 This lab was easy going, and the whole process was familiar to me, and I have set a virtual machine with previous course work from earlier courses. I knew before entering commands and making sure I made any connections to the network, I read the Instructions, so I knew how to configure this correctly and have the right amount of safety measures before opening my virtual machine to the internet. The instructions were very helpful all the way through and I’m sure the ability to set up a ssh server will be of use in many projects and problems that require looking for vulnerabilities and penetration testing.
 
-REFERENCES
-“Lab-01-Installing-Linux-Server” (Mitra, 2024).
-COLLABORATION
-I worked on this lab alone.
-
-
 
