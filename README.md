@@ -1,9 +1,5 @@
 ##### Cyber Security Labs, Python, IT
 [Cyber Security Write Ups](#headers)
-[FTP Server Malware Analysis Lab Report](#emphasis)
-[Installing Ubuntu Server](#emphasis)
-[Mutilidae and DVWA Web Vulnerabilites Demonstration](#emphasis)
-[Wireshark Network Sniffing Write Up](#emphasis)
 
 ##### Cyber Security/IT Write Ups
 *   [Cyber Security Write Ups](WriteUps/Installing-Ubuntu-Server.md)
