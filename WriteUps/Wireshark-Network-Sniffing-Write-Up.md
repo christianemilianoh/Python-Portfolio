@@ -19,26 +19,47 @@ Figure 1. ARP Protocol
 <img width="786" height="228" alt="Picture1" src="https://github.com/user-attachments/assets/c71da772-be04-4364-9771-2fa9293293f4" />
 
 Figure 2. DNS Protocol
+<img width="786" height="229" alt="Picture2" src="https://github.com/user-attachments/assets/8e6a64d7-23c4-4160-a70c-f22e45c325f4" />
 
 Figure 3. HTTP Protocol
+<img width="786" height="163" alt="Picture3" src="https://github.com/user-attachments/assets/a9d6db03-eec7-4e54-bd73-e4fb5ae4c547" />
 
 Figure 4. TCP Protocol
+<img width="786" height="230" alt="Picture4" src="https://github.com/user-attachments/assets/61d83d9f-d941-4517-86c3-37ed89ff9907" />
+
 
 Figure 5. TLSv1.3 (HTTPS) Protocol
+<img width="786" height="229" alt="Picture5" src="https://github.com/user-attachments/assets/c4060136-2fc3-4dda-b7d3-71d670244c43" />
+
 
 Figure 6. UDP Protocol
+<img width="786" height="228" alt="Picture6" src="https://github.com/user-attachments/assets/62c51c09-871f-424d-8071-9c9fe96cb0a9" />
+
 
 Figure 7. ICMP Protocol
+<img width="786" height="228" alt="Picture7" src="https://github.com/user-attachments/assets/c6ba2c35-1c5e-47fd-91d5-f82bd9903850" />
+
 
 Figure 8. FTP Protocol
+<img width="786" height="139" alt="Picture8" src="https://github.com/user-attachments/assets/5997cd05-5608-46ea-be59-7265c54e25b5" />
+
 
 Figure 9. One Hour Scan Network Statistics
+<img width="786" height="416" alt="Picture9" src="https://github.com/user-attachments/assets/c97398a8-43e7-48c0-89b3-7dc48d6948d7" />
 
-Figure 10. Greater than Four Hour Scan Network Statistics 
+
+Figure 10. Greater than Four Hour Scan Network Statistics
+<img width="786" height="416" alt="Picture10" src="https://github.com/user-attachments/assets/4c61dee9-17c0-4585-8921-7620912ddc64" />
+
 
 Figure 11. ARP with MAC and IP Address
+<img width="786" height="220" alt="Picture11" src="https://github.com/user-attachments/assets/9aadc48c-805b-49b9-a01c-1809e5fd2cda" />
+
 
 Figure 12.  Capture your computer’s MAC and IP Address
+<img width="628" height="466" alt="Picture12" src="https://github.com/user-attachments/assets/b8360716-77e4-4ab9-887f-0e0372837105" />
+
+
 
 
 Resouces
