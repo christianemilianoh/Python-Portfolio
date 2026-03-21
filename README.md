@@ -2,8 +2,8 @@
 
 ##### Cyber Security Projects, IT Write Ups
 ### Projects
-*   [Network Infrastructure Project](WriteUps/Network-Infrastructure-Project.md)
-*   [Home Lab Project](WriteUps/Home-Lab-Project.md)
+*   [Network Infrastructure Project](Projects/Network-Infrastructure-Project.md)
+*   [Home Lab Project](Projects/Home-Lab-Project.md)
 
   
 ### Write Ups
