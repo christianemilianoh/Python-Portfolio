@@ -3,7 +3,9 @@
 ### Projects
 ### Network Infrastructure Project
 *   [Firewall Setup](Projects/Network-Infastructure-Project/1-Firewall-Setup.md)
-### [Home Lab Project](Projects/Home-Lab-Project.md)
+
+### Home Lab
+*   [Home Lab Project](Projects/Home-Lab-Project.md)
 
   
 ### Write Ups
