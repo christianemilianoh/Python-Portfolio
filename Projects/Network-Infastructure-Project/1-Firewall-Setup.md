@@ -58,6 +58,10 @@ Creating a rule to block devices generating traffic to on the WAN interface.
 
 The rules made for the home lab machine.
 
+<img width="1158" height="265" alt="Screenshot_2026-03-23_23-50-26" src="https://github.com/user-attachments/assets/d971d692-1596-4d79-92e7-0e09f21a407d" />
+Viewing DCHP Leases to confirm the other hosts on the network are connected.
+
+
 <img width="723" height="111" alt="Screenshot_2026-03-23_22-09-48" src="https://github.com/user-attachments/assets/cbfd1eb9-fb69-465b-83e8-1fe95940506c" />
 <img width="726" height="241" alt="Screenshot_2026-03-23_22-38-17" src="https://github.com/user-attachments/assets/3a9373d7-bff1-4c2d-a41b-8266a71e5bab" />
 
@@ -66,15 +70,3 @@ Confirming the IP address assigned to the MS2 machine, and pinging the Kali mach
 <img width="888" height="361" alt="Screenshot_2026-03-23_22-38-35" src="https://github.com/user-attachments/assets/03cc1632-d1f2-4d1a-aa4e-9d3beac3735b" />
 
 Confirming the IP address of the Kali machine, and pinging the MS2 machine to confirm the network allows two machines to connect with the firewalls currently on.
-
-
-
-
-
-
-
-
-
-
-
-
