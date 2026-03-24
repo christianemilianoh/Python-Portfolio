@@ -1,10 +1,10 @@
 ## Cyber Security, IT, Python
 
 ### Projects
-####Network Infrastructure Project
+### Network Infrastructure Project
 *   [Firewall Setup](Projects/Network/Infrastructure/1-Firewall-Setup.md)
 
-###[Home Lab Project](Projects/Home-Lab-Project.md)
+[Home Lab Project](Projects/Home-Lab-Project.md)
 
   
 ### Write Ups
