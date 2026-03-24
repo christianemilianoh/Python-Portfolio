@@ -1,7 +1,7 @@
 ### Host and Cilent Setup
 <img width="727" height="368" alt="Screenshot_2026-03-23_20-04-11" src="https://github.com/user-attachments/assets/25e8ddbd-5811-4805-b33c-409277a82544" />
 
-The inital network interfaces setup in pfSense.
+The inital network interfaces being setup in pfSense.
 
 <img width="808" height="520" alt="Screenshot_2026-03-23_20-19-12" src="https://github.com/user-attachments/assets/53dcc869-d7ec-46f2-968a-41fff4378bf6" />
 
