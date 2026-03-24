@@ -3,6 +3,8 @@
 ### Projects
 ###  Network Infrastructure Project
 *   [Firewall Setup](Projects/Network-Infastructure-Project/1-Firewall-Setup.md)
+*   [Active Directory Setup](Projects/Network-Infastructure-Project/2-Active-Directory-DC-Setup.md)
+
 
 ###  Home Lab
 *   [Home Lab Project](Projects/Home-Lab-Project.md)
