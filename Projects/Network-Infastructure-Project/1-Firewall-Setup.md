@@ -27,8 +27,7 @@ Changing the IPv4 address on the Kali machine.
 
 ### Firewall Rules
 
-<img width="1286" height="644" alt="Screenshot_2026-03-23_21-37-32" src="https://github.com/user-attachments/assets/7105ab78-c1f4-4a3e-8453-
-b14c09a3138f" />
+<img width="1286" height="644" alt="Screenshot_2026-03-23_21-37-32" src="https://github.com/user-attachments/assets/20a1e56c-f800-45ed-bf08-fcc6913f1ea5" />
 
 The setup for the LAN network interface.
 
