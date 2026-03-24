@@ -44,7 +44,7 @@ Creating a rule for traffic to pass through on a network interface for the netwo
 
 Creating a rule to allow traffic to the Kali Linux machine.
 
-<img width="1287" height="598" alt="Screenshot_2026-03-23_21-50-09" src="https://github.com/user-attachments/assets/d47e2011-8102-4173-8037-a530f70d10b4" />
+<img width="1174" height="421" alt="Screenshot_2026-03-23_23-51-06" src="https://github.com/user-attachments/assets/55e817c0-71ab-48db-9d78-a617166ef338" />
 
 The list of rules made for the network interface meant for the whole network of devices on the network to monitor and mitigate traffic.
 
