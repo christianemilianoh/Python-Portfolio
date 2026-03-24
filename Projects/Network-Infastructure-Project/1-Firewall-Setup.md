@@ -21,6 +21,7 @@ The pfSense Dashboard, containing statics on resource usage and network interfac
 
 Editing settings to optimize monitoring and labeling network interfaces for their purposes in order to easily distinguish them when configuring pfSense.
 
+<img width="1286" height="447" alt="Screenshot_2026-03-23_21-35-08" src="https://github.com/user-attachments/assets/08482f47-cc9b-4578-9a5d-459ea0dcbfcd" />
 
 Changing the IPv4 address on the Kali machine.
 
