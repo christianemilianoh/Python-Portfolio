@@ -20,8 +20,6 @@ Viewing the network adpater needed to connect the Windows Server machine to the 
 
 Setting the IPv4 addresses range for Windows Server to be connected to the proper network.
 
-
-<img width="1030" height="667" alt="Screenshot_2026-03-24_13-14-01" src="https://github.com/user-attachments/assets/5f421354-3859-47ff-a826-38351376ff09" />
 <img width="801" height="624" alt="Screenshot_2026-03-24_13-15-10" src="https://github.com/user-attachments/assets/31091f21-2f95-4316-9a5a-45e148f1f1e8" />
 
 Confirming Windows is now configured to be connected and now given a name as a host machine.
