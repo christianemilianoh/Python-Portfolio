@@ -37,7 +37,8 @@ Finalizing the installation of the domain controller for the Windows Server.
 
 Setting up the DCHP server by Authorizing it to be used in this server.
 
-<img width="1550" height="955" alt="ad_4" src="https://github.com/user-attachments/assets/7683e8ba-c627-4ccd-8783-ada9c3ac4986" />
+
+<img width="1550" height="955" alt="ad_4" src="https://github.com/user-attachments/assets/8c4a631c-66bb-4335-90e9-a5b347713d63" />
 
 Adding a new scope for other users that are a part of the network that will be managed by this server, and installing authentcation tools for management.
 
