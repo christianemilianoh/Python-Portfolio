@@ -77,11 +77,13 @@ Figure 12.  Capture your computer’s MAC and IP Address
 
 
 
-Resouces
+### Resouces
+
 SFTP.net. SFTP.net - SFTP (SSH File Transfer Protocol) info site for C#, VB.NET and Java developers. (n.d.). https://www.sftp.net/public-online-ftp-servers
 
 
-Bibliography
+### Bibliography
+
 Jain, G. (2021, March). Application of snort and wireshark in network traffic analysis. In IOP Conference Series: Materials Science and Engineering (Vol. 1119, No. 1, p. 012007). IOP Publishing.
 
 Mabsali, N. A., Jassim, H., & Mani, J. (2023, January). Effectiveness of Wireshark Tool for Detecting Attacks and Vulnerabilities in Network Traffic. In 1st International Conference on Innovation in Information Technology and Business (ICIITB 2022) (pp. 114-135). Atlantis Press.
