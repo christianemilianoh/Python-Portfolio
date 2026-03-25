@@ -1,5 +1,5 @@
 <img width="1286" height="613" alt="Screenshot_2026-03-24_12-44-21" src="https://github.com/user-attachments/assets/bbf37f58-e462-438e-9620-10420a0fb1b1" />
-## Checking if all DCHP lease for the host devices are operating.
+* Checking if all DCHP lease for the host devices are operating.
 
 
 <img width="629" height="473" alt="Screenshot_2026-03-24_12-45-42" src="https://github.com/user-attachments/assets/d35893d7-7da6-4441-ae14-d71b14dfee65" />
