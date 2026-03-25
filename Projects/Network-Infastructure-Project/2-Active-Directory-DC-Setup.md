@@ -49,3 +49,7 @@ Confirming the installation of Active Directory administration tools.
 <img width="1600" height="1200" alt="ad_6" src="https://github.com/user-attachments/assets/1802a884-0592-4b81-a13d-283bf0989e24" />
 
 Setting information for the administrator and users for management and configuration of machines on this network.
+
+<img width="1600" height="880" alt="Unsaved Image 2" src="https://github.com/user-attachments/assets/6fda0d8e-5f6b-492e-b70f-fabc5ff95b43" />
+
+Signing into the non-admin users on other machines, confirming they are connected to the local network, and verifying this through the DCHP options on Windows.
