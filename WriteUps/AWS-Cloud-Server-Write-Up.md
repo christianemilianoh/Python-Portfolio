@@ -107,12 +107,12 @@ After setting up my EC2-Instance, I navigated to the Services menu on the dashbo
 ### Figure 18: The PuTTY program's download page.
 
 
-<img width="602" height="471" alt="Picture19" src="https://github.com/user-attachments/assets/58d297b2-e847-44de-a59f-a1e506d9ce43" /> <br/>
+<img width="623" height="307" alt="569481660-2d31c6fb-0154-4d11-ba1b-79b119187da9" src="https://github.com/user-attachments/assets/13b09294-944c-4a2e-b881-7d42e2017c79" />
 
 ### Figure 19: PuTTY key generator program which we will convert our original EC2 key to a private key we can use to login to the instance via SSH.
 
 
-<img width="624" height="326" alt="Picture20" src="https://github.com/user-attachments/assets/2d31c6fb-0154-4d11-ba1b-79b119187da9" /> <br/>
+<img width="624" height="291" alt="569482512-98acc10a-2c81-4471-98f6-8e57ae434897" src="https://github.com/user-attachments/assets/0ff21104-1eee-4700-a46b-e935ef76f511" />
 
 ### Figure 20: Successful login of our instance through SSH.
 
