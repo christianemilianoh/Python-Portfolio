@@ -75,4 +75,4 @@ This lab was an excellent continuation of expanding on the skills learned from t
 
 “SANS TechTuesday Part 11: Introduction to the Internet Storm Center – SANS ISC.” Available: https://www.youtube.com/watch?v=0HiwtzshMXE. [Accessed: Apr. 19, 2025]
 
-“Color My Logs,” SANS Internet Storm Center. Available: https://isc.sans.edu/colormylogs.html. [Accessed: Apr. 19, 2025]COLLABORATION
+“Color My Logs,” SANS Internet Storm Center. Available: https://isc.sans.edu/colormylogs.html. [Accessed: Apr. 19, 2025]
