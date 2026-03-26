@@ -12,6 +12,7 @@
   
 ###  Write Ups
 *   [Installing Ubuntu Server](WriteUps/Installing-Ubuntu-Server.md)
+*   [Ubuntu User and File Permissions Write Up.md](WriteUps/Ubuntu-User-And-File-Permissions-Write-Up.md)
 *   [Wireshark Network Sniffing Write Up](WriteUps/Wireshark-Network-Sniffing-Write-Up.md)
 *   [FTP Server Malware Analysis Lab Report](WriteUps/FTP-Server-Malware-Analysis-Lab-Report.md)
 
