@@ -10,7 +10,8 @@ Enterprises, and many people who work with cloud computing must use a service th
 
 
 <img width="624" height="485" alt="Picture2" src="https://github.com/user-attachments/assets/a081fb04-1ed3-4719-a1ee-b3cc58591a26" /> <br/>
-### Figure 2: The confirmation page for creating a AWS account. To initialize the first procedure of the lab, I opened the link to register for an AWS account provided in the instructions. After entering my email, and other information such as my number, my credit card number for verification, and the root username and password for the account I was able to access a dashboard. The dashboard was the Management Console, which I found quite seamless to sign up and navigate to. 
+### Figure 2: The confirmation page for creating a AWS account. 
+To initialize the first procedure of the lab, I opened the link to register for an AWS account provided in the instructions. After entering my email, and other information such as my number, my credit card number for verification, and the root username and password for the account I was able to access a dashboard. The dashboard was the Management Console, which I found quite seamless to sign up and navigate to. 
 
 
 # BREAKPOINT 2
@@ -22,7 +23,8 @@ Enterprises, and many people who work with cloud computing must use a service th
 
 <img width="624" height="296" alt="Picture4" src="https://github.com/user-attachments/assets/da93008b-550e-4348-baac-09ba48f3e017" /> <br/>
 
-### Figure 4: Enabling Free Tier alerts for the root email. I found that on the dashboard I was alerted to complete MFA authentication using the Duo Mobile App. After scanning the QR code and entering the 2 PIN numbers I had it set up. The last measure I took was to look at the left panel on the website and click billing preferences. Through here I enabled Free Tier alerts to assure usage of the plan is not wasted. This step is important in assuring I have good security measures for accessing something vulnerable and powerful such as the root user for the IAM console dashboard. Within this step I have MFA setup, and alerts setup to make sure I received those alerts.
+### Figure 4: Enabling Free Tier alerts for the root email. 
+I found that on the dashboard I was alerted to complete MFA authentication using the Duo Mobile App. After scanning the QR code and entering the 2 PIN numbers I had it set up. The last measure I took was to look at the left panel on the website and click billing preferences. Through here I enabled Free Tier alerts to assure usage of the plan is not wasted. This step is important in assuring I have good security measures for accessing something vulnerable and powerful such as the root user for the IAM console dashboard. Within this step I have MFA setup, and alerts setup to make sure I received those alerts.
 
 
 # BREAKPOINT 3
@@ -65,7 +67,8 @@ Enterprises, and many people who work with cloud computing must use a service th
 
 <img width="624" height="373" alt="Picture12" src="https://github.com/user-attachments/assets/75acee8a-ad70-474c-bb74-689ee084e525" /> <br/>
 
-### Figure 12: The EC2 page to where we initially will launch the Ubuntu Instance. To securely assure I can set up our AWS server, I created a group and user within the console to assure this can be done. Through the IAM Identity Center, I was able to create a user and group. Through the prompts, I filled out information such as the user’s name and set up MFA for the user as well. I did obtain a confirmation email to continue accessing AWS with my new user who I named john. Initially there’s wasn’t any content on the dashboard for john, so I had to setup permissions that gave the user access to one. I went through the group creation process like how a user was made and assigned john to Group_1. After, it was time to make a policy and have it assigned to john’s group. I pressed the create policies button, and within the selection panels I set the permission type to custom and searched for the “AmazonEC2FullAccess” set. I set the runtime for the server to be for 4 hours and confirmed the creation of the EC2 Instance. Finally, I assigned the EC2-Instance permission set to Group_1, through the permission sets windows on the IAM Identity Center console.
+### Figure 12: The EC2 page to where we initially will launch the Ubuntu Instance.
+To securely assure I can set up our AWS server, I created a group and user within the console to assure this can be done. Through the IAM Identity Center, I was able to create a user and group. Through the prompts, I filled out information such as the user’s name and set up MFA for the user as well. I did obtain a confirmation email to continue accessing AWS with my new user who I named john. Initially there’s wasn’t any content on the dashboard for john, so I had to setup permissions that gave the user access to one. I went through the group creation process like how a user was made and assigned john to Group_1. After, it was time to make a policy and have it assigned to john’s group. I pressed the create policies button, and within the selection panels I set the permission type to custom and searched for the “AmazonEC2FullAccess” set. I set the runtime for the server to be for 4 hours and confirmed the creation of the EC2 Instance. Finally, I assigned the EC2-Instance permission set to Group_1, through the permission sets windows on the IAM Identity Center console.
 
 
 # BREAKPOINT 4
@@ -93,7 +96,8 @@ Enterprises, and many people who work with cloud computing must use a service th
 
 <img width="624" height="188" alt="Picture17" src="https://github.com/user-attachments/assets/6d543199-1495-4686-9a1b-4a364a536d29" /> <br/>
 
-### Figure 17: The page confirms the installation and setup of our instance. After setting up my EC2-Instance, I navigated to the Services menu on the dashboard and clicked the “launch an instance” button. These next few steps require certain specifications to have our instance properly function correctly. I configured my server instance to run Ubuntu 22.04 LTS image, a key pair with the RSA encryption type and the .pem format. For the lab, allowing SSH traffic to the server is allowed, and allocating 25gb of storage is essential as well for our instance. After reviewing and pressing “launch instance”, I am now able to begin to setup logging in to the server via SSH. 
+### Figure 17: The page confirms the installation and setup of our instance. 
+After setting up my EC2-Instance, I navigated to the Services menu on the dashboard and clicked the “launch an instance” button. These next few steps require certain specifications to have our instance properly function correctly. I configured my server instance to run Ubuntu 22.04 LTS image, a key pair with the RSA encryption type and the .pem format. For the lab, allowing SSH traffic to the server is allowed, and allocating 25gb of storage is essential as well for our instance. After reviewing and pressing “launch instance”, I am now able to begin to setup logging in to the server via SSH. 
 
 
 # BREAKPOINT 5
@@ -120,7 +124,8 @@ Enterprises, and many people who work with cloud computing must use a service th
 
 <img width="624" height="152" alt="Picture22" src="https://github.com/user-attachments/assets/427b2a43-ff3e-4df1-9ee4-4e4012b331fa" /> <br/>
 
-### Figure 22: Confirmation that I have terminated the instance I have created with my AWS account. When attempting to connect to the server with the .pem I created in the instance server process, I received an error due to the key not being converted from it’s original private .pem format. The instructions I followed were from the AWS documentation for Amazon EC2. To do this I downloaded and installed PuTTYgen, a program that will convert the key to a new file format that I can use to login to the SSH server. I loaded the private .pem file, and set the encryption key to stay as RSA. I saved it as a new key file so I know I can login with the newly generated key. On Windows I used the command line to login, using “ssh -I ASDASF.pek [the name of my .pem file] ubuntu@ip”. I successfully logged in, tested a few basic Linux commands to make sure I can correctly write commands and get output as seen in figure 21. My final command was “exit” which output the line “Connection to [IP] closed”, which is the private ip address for the machine/instance. Finally to close things off, I terminate the instance to prevent wasted usage of data through the EC2 dashboard.
+### Figure 22: Confirmation that I have terminated the instance I have created with my AWS account. 
+When attempting to connect to the server with the .pem I created in the instance server process, I received an error due to the key not being converted from it’s original private .pem format. The instructions I followed were from the AWS documentation for Amazon EC2. To do this I downloaded and installed PuTTYgen, a program that will convert the key to a new file format that I can use to login to the SSH server. I loaded the private .pem file, and set the encryption key to stay as RSA. I saved it as a new key file so I know I can login with the newly generated key. On Windows I used the command line to login, using “ssh -I ASDASF.pek [the name of my .pem file] ubuntu@ip”. I successfully logged in, tested a few basic Linux commands to make sure I can correctly write commands and get output as seen in figure 21. My final command was “exit” which output the line “Connection to [IP] closed”, which is the private ip address for the machine/instance. Finally to close things off, I terminate the instance to prevent wasted usage of data through the EC2 dashboard.
 
 
 # CONCLUSION
