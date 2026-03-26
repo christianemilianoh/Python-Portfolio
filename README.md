@@ -15,6 +15,10 @@
 *   [Wireshark Network Sniffing Write Up](WriteUps/Wireshark-Network-Sniffing-Write-Up.md)
 *   [FTP Server Malware Analysis Lab Report](WriteUps/FTP-Server-Malware-Analysis-Lab-Report.md)
 
+*   [AWS Cloud Server Write Up](WriteUps/AWS-Cloud-Server-Write-Up.md)
+*   [Honeypot Write Up](WriteUps/Honeypot-Write-Up.md)
+
+
 
 ###  Python
 *   [Python Fundmentals](Python)
