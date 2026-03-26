@@ -96,7 +96,7 @@ For encryption the line modified the expressions “a-zA-Z” and “f-za-eF-ZA-
 
  
 ## CONCLUSION
-What challenges did you encounter and/or what most interested you about this lab? How did you address your challenges and/or what additional research did you do? How might you use the skills and concepts of this lab going forward? I found that this lab was very informative and fun to work on. I did spend time understanding the Ceaser Cipher and being able to modify it correctly to correctly encrypt and decrypt a string by 5 characters. The skills of structuring and designing code and a script are quite useful for information technology and I will be practicing and utilizing these skills outside of my studies to make tasks easier to do on my personal computer and for projects that require me to utilize tools to transfer data or obtain information using programs such as curl or nmap.
+I found that this lab was very informative and fun to work on. I did spend time understanding the Ceaser Cipher and being able to modify it correctly to correctly encrypt and decrypt a string by 5 characters. The skills of structuring and designing code and a script are quite useful for information technology and I will be practicing and utilizing these skills outside of my studies to make tasks easier to do on my personal computer and for projects that require me to utilize tools to transfer data or obtain information using programs such as curl or nmap.
 
 
 ## REFERENCES
