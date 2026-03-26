@@ -5,10 +5,12 @@ Enterprises, and many people who work with cloud computing must use a service th
 
 
 <img width="624" height="504" alt="Picture1" src="https://github.com/user-attachments/assets/e23f24b9-8dc4-43f9-9c02-2bf58ea2a212" />
+<br/>
 ### Figure 1: The AWS sign up page.
 
 
 <img width="624" height="485" alt="Picture2" src="https://github.com/user-attachments/assets/a081fb04-1ed3-4719-a1ee-b3cc58591a26" />
+<br/>
 ### Figure 2: The confirmation page for creating a AWS account. To initialize the first procedure of the lab, I opened the link to register for an AWS account provided in the instructions. After entering my email, and other information such as my number, my credit card number for verification, and the root username and password for the account I was able to access a dashboard. The dashboard was the Management Console, which I found quite seamless to sign up and navigate to. 
 
 
